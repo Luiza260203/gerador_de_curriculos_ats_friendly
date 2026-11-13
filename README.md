@@ -1,4 +1,4 @@
-# Gerador_de_Curriculos_ATS_Friendly
+# gerador_de_curriculos_ats_friendly
 App web para matchmaking de vagas de emprego e geração de currículos otimizados para sistemas ATS utilizando Lovable.
 
 # 📄 MatchCV
